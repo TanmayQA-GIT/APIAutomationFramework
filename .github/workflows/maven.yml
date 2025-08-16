@@ -20,5 +20,5 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Execute tests
-      run: mvn clean Dsuite =suite_Smoke -X
+      run: mvn clean test -Dsuite=suite_Smoke -X
     
