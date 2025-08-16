@@ -1,0 +1,16 @@
+Service object models
+ wrapper for Rest Assured
+ BASE URI
+ CREATING THE REQUEST
+ HANDLING THE RESPONSE
+default constructor -- to initialise the instance variable.
+ so here request specification will be initialised as BASE_URI is class variable or static
+Converting java objects into json object is called serialization. Use jackson library
+We can not pass the reference whose object we are creating , we should pass reference of their parent reference for loosely coupled
+called as polymorphism
+
+         // response.as(Class<T> clss
+        //This method converts (or deserializes) the response body (JSON or XML)
+        // into a Java object of the given class type.
+       // as() internally uses a deserializer like Jackson
+        // or Gson to map JSON fields to Java object fields.

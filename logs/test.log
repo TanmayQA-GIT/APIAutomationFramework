@@ -1,0 +1,181 @@
+18:39:16.647 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+18:39:16.656 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+18:39:17.394 [main] INFO  com.api.listners.Testlistner - Passed!!!!loginTest
+18:39:17.394 [main] INFO  com.api.listners.Testlistner - Description!!Verify if login API is working....
+18:39:17.395 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
+18:40:38.654 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+18:40:38.663 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+18:40:39.374 [main] INFO  com.api.listners.Testlistner - Passed!!!!loginTest
+18:40:39.374 [main] INFO  com.api.listners.Testlistner - Description!!Verify if login API is working....
+18:40:39.375 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
+19:25:10.416 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+19:25:10.425 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+19:25:10.773 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+19:25:10.773 [main] INFO  com.api.filters.LoggingFilter - Request Header:Accept=*/*
+Content-Type=application/json
+19:25:10.773 [main] INFO  com.api.filters.LoggingFilter - Request Payload:{"username":"Tanmay","password":"Kashyap@1"}
+19:25:11.145 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:200
+19:25:11.145 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 13:55:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+19:25:11.145 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@77d381e6
+19:25:11.190 [main] INFO  com.api.listners.Testlistner - Passed!!!!loginTest
+19:25:11.190 [main] INFO  com.api.listners.Testlistner - Description!!Verify if login API is working....
+19:25:11.191 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
+19:26:10.301 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+19:26:10.311 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+19:26:10.645 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+19:26:10.645 [main] INFO  com.api.filters.LoggingFilter - Request Header:Accept=*/*
+Content-Type=application/json
+19:26:10.645 [main] INFO  com.api.filters.LoggingFilter - Request Payload:{"username":"Tanmay","password":"Kashyap@1"}
+19:26:11.064 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:200
+19:26:11.064 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 13:56:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+19:26:11.064 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@144ab983
+19:26:11.098 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+19:26:11.099 [main] INFO  com.api.filters.LoggingFilter - Request Header:Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUYW5tYXkiLCJpYXQiOjE3NTUzNTI1NzEsImV4cCI6MTc1NTM1NjE3MX0.2H8H7YV8_fBZSmKgv9wC-9a80OnFJDPcp4KHbF128ew
+Accept=*/*
+19:26:11.099 [main] INFO  com.api.filters.LoggingFilter - Request Payload:null
+19:26:11.283 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:200
+19:26:11.284 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 13:56:11 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+19:26:11.284 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@1980a3f
+19:26:11.298 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+19:26:11.298 [main] INFO  com.api.filters.LoggingFilter - Request Header:Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUYW5tYXkiLCJpYXQiOjE3NTUzNTI1NzEsImV4cCI6MTc1NTM1NjE3MX0.2H8H7YV8_fBZSmKgv9wC-9a80OnFJDPcp4KHbF128ew
+Accept=*/*
+Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJUYW5tYXkiLCJpYXQiOjE3NTUzNTI1NzEsImV4cCI6MTc1NTM1NjE3MX0.2H8H7YV8_fBZSmKgv9wC-9a80OnFJDPcp4KHbF128ew
+Content-Type=application/json
+19:26:11.298 [main] INFO  com.api.filters.LoggingFilter - Request Payload:{"firstName":"Kashyap","lastName":"Parashar","email":"test1234@gmail.com","mobileNumber":"9999999990"}
+19:26:11.458 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:500
+19:26:11.458 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 13:56:11 GMT
+Connection=close
+19:26:11.458 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@566e142
+19:26:11.470 [main] INFO  com.api.listners.Testlistner - Passed!!!!updateProfileTest
+19:26:11.470 [main] INFO  com.api.listners.Testlistner - Description!!Verify the profile update api
+19:26:11.471 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
+01:24:24.376 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+01:24:24.385 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+01:24:24.718 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+01:24:24.718 [main] INFO  com.api.filters.LoggingFilter - Request Header:Accept=*/*
+Content-Type=application/json
+01:24:24.718 [main] INFO  com.api.filters.LoggingFilter - Request Payload:{"username":"Tanmay","password":"Kashyap@1"}
+01:24:25.104 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:200
+01:24:25.104 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 19:54:25 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+01:24:25.104 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@78d71df1
+01:24:25.129 [main] INFO  com.api.listners.Testlistner - Passed!!!!loginTest
+01:24:25.129 [main] INFO  com.api.listners.Testlistner - Description!!Verify if login API is working....
+01:24:25.136 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
+01:27:25.915 [main] INFO  com.api.listners.Testlistner - Test Suite Started !!!
+01:27:25.923 [main] INFO  com.api.listners.Testlistner - Test Started !!!
+01:27:26.242 [main] INFO  com.api.filters.LoggingFilter - BASE URI:http://64.227.160.186:8080
+01:27:26.242 [main] INFO  com.api.filters.LoggingFilter - Request Header:Accept=*/*
+Content-Type=application/json
+01:27:26.242 [main] INFO  com.api.filters.LoggingFilter - Request Payload:{"username":"Tanmay","password":"Kashyap@1"}
+01:27:26.603 [main] INFO  com.api.filters.LoggingFilter - STATUS CODE:200
+01:27:26.603 [main] INFO  com.api.filters.LoggingFilter - RESPONSE HEADER:Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Sat, 16 Aug 2025 19:57:26 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+01:27:26.603 [main] INFO  com.api.filters.LoggingFilter - RESPONSE BODY:io.restassured.internal.RestAssuredResponseImpl@78d71df1
+01:27:26.627 [main] INFO  com.api.listners.Testlistner - Passed!!!!loginTest
+01:27:26.627 [main] INFO  com.api.listners.Testlistner - Description!!Verify if login API is working....
+01:27:26.635 [main] INFO  com.api.listners.Testlistner - Test Suite Completed !!!
